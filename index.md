@@ -10,22 +10,8 @@
 ### Abstract
 The automation of testing is critical in software development to improve quality assurance (QA), but today 80% of testing is manual (Gartner) and $32 billion is spent annually on QA (IDC/Nelson Hall). Coding standards in automotive and cybersecurity (e.g. CWE, MISRA) provide developers with rules and recommendations to prevent faulty code patterns. The ever-increasing complexity of HPC software and hardware pushes the developers to critically reevaluate testing methods, but there is no coding standard for parallel programming yet. Our goal is to form a community interested in quality assurance and best practices for parallel programming.
 
-### Long Description
+## Organizers
+- Manuel Arenaz (Appentra Solutions, University of A Coruña) <manuel.arenaz@appentra.com>
+- Julian Miller (RWTH Aachen University) <miller@itc.rwth-aachen.de>
 
-#### Goals
-The goal of this BoF is to bring together members of the HPC community interested in quality assurance and best practices for the development of parallel software on a wide range of hardware architectures.
-
-#### Topics:
-1. The HPC perspective: The importance of developing Better Scientific Software to manage the ever- growing complexity of HPC software, and the role of DevOps/CD, reusable components, etc... in increasing the quality of HPC software. Speakers: David Bernholdt (ORNL and leader of US ECP https://bssw.io/) and Saber Feki (KAUST).
-2. The current status of coding standards in HPC: Early experiences in creating benchmark suites of rules and recommendations to improve quality assurance and ensure best practices in developing parallel software. DataRaceBench is a benchmark suite designed to systematically and quantitatively evaluate the effectiveness of data race detection tools. It includes a set of OpenMP microbenchmarks with and without data races. Speaker: Leo Chunhua (LLNL and author of DataRaceBench).
-3. Coding standards as a way to facilitate Quality Assurance: Successful experiences providing software developers with rules and recommendations to fix faulty code patterns in functional safety and cybersecurity through coding standards like CWE and MISRA. Speaker: Robert Schiela (Software Engineering Institute, Carnegie Mellon University)
-4. The industry perspective: The importance of Quality Assurance and Testing in HPC, from supercomputing centers to universities, and from startups to Fortune500 companies. (Speakers not confirmed yet)
-
-### Relevance
-Parallel programming is challenging and, thus, quality assurance and coding standards are
-critical for HPC programmers, particularly for industry and novice programmers. This BoF shall leverage the expertise of senior developers in parallel programming and record it in such a way that it can be validated and reused by the HPC community.
-
-### Outcome
-We will collect best practices for parallel programming and derive a structured plan to develop
-the first version of a coding standard. We will share this information with interested parties via a report of the BoF. Furthermore, we will form a specialized group to continue this collection of best practices and standardization efforts and implement means of communication for this group.
 
