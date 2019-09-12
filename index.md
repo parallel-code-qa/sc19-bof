@@ -4,6 +4,9 @@
 
 **Place:** Colorado Convention Center, Denver, CO
 
+**Join us on the mailing list to receive relevant updates:**
+[https://groups.io/g/parallel-code-qa](https://groups.io/g/parallel-code-qa)
+
 ### Abstract
 The automation of testing is critical in software development to improve quality assurance (QA), but today 80% of testing is manual (Gartner) and $32 billion is spent annually on QA (IDC/Nelson Hall). Coding standards in automotive and cybersecurity (e.g. CWE, MISRA) provide developers with rules and recommendations to prevent faulty code patterns. The ever-increasing complexity of HPC software and hardware pushes the developers to critically reevaluate testing methods, but there is no coding standard for parallel programming yet. Our goal is to form a community interested in quality assurance and best practices for parallel programming.
 
@@ -26,6 +29,3 @@ critical for HPC programmers, particularly for industry and novice programmers. 
 We will collect best practices for parallel programming and derive a structured plan to develop
 the first version of a coding standard. We will share this information with interested parties via a report of the BoF. Furthermore, we will form a specialized group to continue this collection of best practices and standardization efforts and implement means of communication for this group.
 
-
-##### **If you are interested, join us on the mailing list to receive updates:**
-https://groups.io/g/parallel-code-qa
