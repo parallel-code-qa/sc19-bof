@@ -1,6 +1,7 @@
 ## SC19 BoF: Quality Assurance and Coding Standards for Parallel Software
 
 **Date:** 21st Novemeber 2019
+
 **Place:** Colorado Convention Center, Denver, CO
 
 ### Abstract
@@ -13,9 +14,9 @@ The goal of this BoF is to bring together members of the HPC community intereste
 
 #### Topics:
 1. The HPC perspective: The importance of developing Better Scientific Software to manage the ever- growing complexity of HPC software, and the role of DevOps/CD, reusable components, etc... in increasing the quality of HPC software. Speakers: David Bernholdt (ORNL and leader of US ECP https://bssw.io/) and Saber Feki (KAUST).
-The current status of coding standards in HPC: Early experiences in creating benchmark suites of rules and recommendations to improve quality assurance and ensure best practices in developing parallel software. DataRaceBench is a benchmark suite designed to systematically and quantitatively evaluate the effectiveness of data race detection tools. It includes a set of OpenMP microbenchmarks with and without data races. Speaker: Leo Chunhua (LLNL and author of DataRaceBench).
-2. Coding standards as a way to facilitate Quality Assurance: Successful experiences providing software developers with rules and recommendations to fix faulty code patterns in functional safety and cybersecurity through coding standards like CWE and MISRA. Speaker: Robert Schiela (Software Engineering Institute, Carnegie Mellon University)
-3. The industry perspective: The importance of Quality Assurance and Testing in HPC, from supercomputing centers to universities, and from startups to Fortune500 companies. (Speakers not confirmed yet)
+2. The current status of coding standards in HPC: Early experiences in creating benchmark suites of rules and recommendations to improve quality assurance and ensure best practices in developing parallel software. DataRaceBench is a benchmark suite designed to systematically and quantitatively evaluate the effectiveness of data race detection tools. It includes a set of OpenMP microbenchmarks with and without data races. Speaker: Leo Chunhua (LLNL and author of DataRaceBench).
+3. Coding standards as a way to facilitate Quality Assurance: Successful experiences providing software developers with rules and recommendations to fix faulty code patterns in functional safety and cybersecurity through coding standards like CWE and MISRA. Speaker: Robert Schiela (Software Engineering Institute, Carnegie Mellon University)
+4. The industry perspective: The importance of Quality Assurance and Testing in HPC, from supercomputing centers to universities, and from startups to Fortune500 companies. (Speakers not confirmed yet)
 
 ### Relevance
 Parallel programming is challenging and, thus, quality assurance and coding standards are
