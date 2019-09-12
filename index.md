@@ -2,7 +2,7 @@
 
 **Date:** 21st Novemeber 2019
 
-**Place:** [SC19](https://sc19.supercomputing.org/) - Colorado Convention Center, Denver, CO
+**Place:** [SC19](https://sc19.supercomputing.org/) at Colorado Convention Center, Denver, CO
 
 **Join us on the mailing list to receive relevant updates and dicussions:**
 [https://groups.io/g/parallel-code-qa-sc19-bof](https://groups.io/g/parallel-code-qa-sc19-bof)
