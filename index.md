@@ -20,13 +20,12 @@ assurance and best practices for the development of parallel software on a wide 
 architectures.
 
 ### Topics
-1. The HPC perspective: The importance of developing Better Scientific Software to manage the evergrowing complexity of HPC software, and the role of DevOps/CD, reusable components, etc... in
-increasing the quality of HPC software. 
+1. The HPC perspective: The importance of developing Better Scientific Software to manage the evergrowing complexity of HPC software, and the role of DevOps/CD, reusable components, etc... in increasing the quality of HPC software. 
 2. The current status of coding standards in HPC: Early experiences in creating benchmark suites of rules
 and recommendations to improve quality assurance and ensure best practices in developing parallel
 software. DataRaceBench is a benchmark suite designed to systematically and quantitatively evaluate the
 effectiveness of data race detection tools. It includes a set of OpenMP microbenchmarks with and without
-data races. Speaker: Leo Chunhua (LLNL and author of DataRaceBench).
+data races. 
 3. Coding standards as a way to facilitate Quality Assurance: Successful experiences providing software
 developers with rules and recommendations to fix faulty code patterns in functional safety and
 cybersecurity through coding standards like CWE and MISRA. 
