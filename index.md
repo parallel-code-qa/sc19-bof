@@ -1,5 +1,4 @@
-## SC19 BoF
-## Quality Assurance and Coding Standards for Parallel Software
+## SC19 BoF - Quality Assurance and Coding Standards for Parallel Software
 
 **Date:** 21st Novemeber 2019
 
