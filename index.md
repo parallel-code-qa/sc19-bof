@@ -1,6 +1,6 @@
 ## SC19 BoF - Quality Assurance and Coding Standards for Parallel Software
 
-**Date:** 21st Novemeber 2019
+**Date:** 21st November 2019
 
 **Place:** [SC19](https://sc19.supercomputing.org/) at Colorado Convention Center, Denver, CO
 
