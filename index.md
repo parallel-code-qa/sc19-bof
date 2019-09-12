@@ -27,5 +27,5 @@ We will collect best practices for parallel programming and derive a structured 
 the first version of a coding standard. We will share this information with interested parties via a report of the BoF. Furthermore, we will form a specialized group to continue this collection of best practices and standardization efforts and implement means of communication for this group.
 
 
-##### **If you are interested, join us the mailing list:**
+##### **If you are interested, join us on the mailing list to receive updates:**
 https://groups.io/g/parallel-code-qa
