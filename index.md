@@ -4,7 +4,7 @@
 
 **Place:** [SC19](https://sc19.supercomputing.org/) at Colorado Convention Center, Denver, CO
 
-**Room:** 505
+**Room:** [505](https://sc19.supercomputing.org/map/?location=r505)
 
 **Join us on the mailing list to receive relevant updates and dicussions:**
 [https://groups.io/g/parallel-code-qa-sc19-bof](https://groups.io/g/parallel-code-qa-sc19-bof)
