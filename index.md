@@ -47,8 +47,17 @@ the first version of a coding standard. We will share this information with inte
 the BoF. Furthermore, we will form a specialized group to continue this collection of best practices and
 standardization efforts and implement means of communication for this group.
 
+## Panelists
+- **David Bernholdt** (ORNL, US) 
+- **Saber Feki**  (KAUST, Saudi Arabia)
+- **Dirk Pleiter** (Juelich Supercomputing Center, Germany)
+- **Chunhua “Leo” Liao** (LLNL, US)
+- **Robert Schiela** (Software Engineering Institute, Carnegie Mellon University, US)
+- **Khaled Elamrawi** (Brightskies)
+- **Manuel Arenaz** (Appentra Solutions, Spain)
+
 ## Organizers
-- Manuel Arenaz (Appentra Solutions, University of A Coruña) <manuel.arenaz@appentra.com>
-- Julian Miller (RWTH Aachen University) <miller@itc.rwth-aachen.de>
+- **Manuel Arenaz** (Appentra Solutions, University of A Coruña) <manuel.arenaz@appentra.com>
+- **Julian Miller** (RWTH Aachen University) <miller@itc.rwth-aachen.de>
 
 
