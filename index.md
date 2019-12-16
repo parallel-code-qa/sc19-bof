@@ -12,7 +12,7 @@
 **SC19 BoF webpage:**
 [https://sc19.supercomputing.org/presentation/?id=bof164&sess=sess316](https://sc19.supercomputing.org/presentation/?id=bof164&sess=sess316)
 
-**Slides:** [SC19-BOF-all-slides.pdf](SC19-BOF-all-slides.pdf)
+**📄 Slides:** [SC19-BOF-all-slides.pdf](SC19-BOF-all-slides.pdf)
 
 ## Abstract
 The automation of testing is critical in software development to improve quality assurance (QA), but today 80% of testing is manual (Gartner) and $32 billion is spent annually on QA (IDC/Nelson Hall). Coding standards in automotive and cybersecurity (e.g. CWE, MISRA) provide developers with rules and recommendations to prevent faulty code patterns. The ever-increasing complexity of HPC software and hardware pushes the developers to critically reevaluate testing methods, but there is no coding standard for parallel programming yet. Our goal is to form a community interested in quality assurance and best practices for parallel programming.
