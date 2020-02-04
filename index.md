@@ -14,6 +14,8 @@
 
 **📄 Slides:** [BoF-slides.pdf](SC19-BOF-all-slides.pdf)
 
+**This BoF brough together 6 world-class speakers for a total of 33 attendees.**
+
 ## Abstract
 The automation of testing is critical in software development to improve quality assurance (QA), but today 80% of testing is manual (Gartner) and $32 billion is spent annually on QA (IDC/Nelson Hall). Coding standards in automotive and cybersecurity (e.g. CWE, MISRA) provide developers with rules and recommendations to prevent faulty code patterns. The ever-increasing complexity of HPC software and hardware pushes the developers to critically reevaluate testing methods, but there is no coding standard for parallel programming yet. Our goal is to form a community interested in quality assurance and best practices for parallel programming.
 
